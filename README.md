@@ -1,2 +1,1 @@
-# Next-Greater-Element-I
-Array HashTable Stack
+https://leetcode.com/problems/next-greater-element-i
